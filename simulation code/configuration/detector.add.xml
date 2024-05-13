@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+<!-- Detectors -->
+            
+
+            <inductionLoop id="e1_0" lane="E0_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_1" lane="E0_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_2" lane="E0_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_3" lane="E0_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_4" lane="E1_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_5" lane="E1_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_6" lane="E1_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_7" lane="E1_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_8" lane="E2_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_9" lane="E2_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_10" lane="E2_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_11" lane="E2_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_12" lane="E3_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_13" lane="E3_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_14" lane="E3_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_15" lane="E3_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_16" lane="E4_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_17" lane="E4_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_18" lane="E4_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_19" lane="E4_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_20" lane="E5_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_21" lane="E5_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_22" lane="E5_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_23" lane="E5_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_24" lane="E6_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_25" lane="E6_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_26" lane="E6_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_27" lane="E6_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_28" lane="E7_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_29" lane="E7_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_30" lane="E7_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_31" lane="E7_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_32" lane="E8_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_33" lane="E8_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_34" lane="E8_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_35" lane="E8_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_36" lane="E9_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_37" lane="E9_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_38" lane="E9_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_39" lane="E9_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_40" lane="E10_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_41" lane="E10_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_42" lane="E10_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_43" lane="E10_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_44" lane="E11_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_45" lane="E11_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_46" lane="E11_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_47" lane="E11_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_48" lane="E12_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_49" lane="E12_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_50" lane="E12_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_51" lane="E12_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_52" lane="E13_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_53" lane="E13_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_54" lane="E13_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_55" lane="E13_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_56" lane="E14_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_57" lane="E14_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_58" lane="E14_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_59" lane="E14_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_60" lane="E15_0" pos="35.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_61" lane="E15_1" pos="35.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_62" lane="E15_2" pos="35.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_63" lane="E15_3" pos="35.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_64" lane="E16_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_65" lane="E16_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_66" lane="E16_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_67" lane="E16_4" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_68" lane="E17_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_69" lane="E17_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_70" lane="E17_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_71" lane="E17_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_72" lane="E18_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_73" lane="E18_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_74" lane="E18_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_75" lane="E18_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_76" lane="E19_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_77" lane="E19_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_78" lane="E19_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_79" lane="E19_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_80" lane="E20_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_81" lane="E20_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_82" lane="E20_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_83" lane="E20_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_84" lane="E21_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_85" lane="E21_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_86" lane="E21_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_87" lane="E21_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_88" lane="E22_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_89" lane="E22_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_90" lane="E22_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_91" lane="E22_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_92" lane="E23_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_93" lane="E23_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_94" lane="E23_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_95" lane="E23_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_96" lane="E24_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_97" lane="E24_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_98" lane="E24_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_99" lane="E24_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_100" lane="E25_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_101" lane="E25_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_102" lane="E25_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_103" lane="E25_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_104" lane="E26_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_105" lane="E26_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_106" lane="E26_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_107" lane="E26_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_108" lane="E27_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_109" lane="E27_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_110" lane="E27_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_111" lane="E27_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_112" lane="E28_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_113" lane="E28_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_114" lane="E28_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_115" lane="E28_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_116" lane="E29_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_117" lane="E29_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_118" lane="E29_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_119" lane="E29_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_120" lane="E30_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_121" lane="E30_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_122" lane="E30_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_123" lane="E30_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_124" lane="E31_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_125" lane="E31_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_126" lane="E31_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_127" lane="E31_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_128" lane="E32_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_129" lane="E32_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_130" lane="E32_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_131" lane="E32_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_132" lane="E33_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_133" lane="E33_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_134" lane="E33_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_135" lane="E33_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_136" lane="E34_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_137" lane="E34_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_138" lane="E34_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_139" lane="E34_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_140" lane="E35_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_141" lane="E35_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_142" lane="E35_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_143" lane="E35_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_144" lane="E36_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_145" lane="E36_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_146" lane="E36_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_147" lane="E36_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_148" lane="E37_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_149" lane="E37_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_150" lane="E37_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_151" lane="E37_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_152" lane="E38_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_153" lane="E38_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_154" lane="E38_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_155" lane="E38_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_156" lane="E39_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_157" lane="E39_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_158" lane="E39_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_159" lane="E39_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_160" lane="E40_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_161" lane="E40_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_162" lane="E40_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_163" lane="E40_4" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_164" lane="E41_0" pos="24.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_165" lane="E41_1" pos="24.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_166" lane="E41_2" pos="24.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_167" lane="E41_3" pos="24.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_168" lane="E42_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_169" lane="E42_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_170" lane="E42_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_171" lane="E42_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_172" lane="E43_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_173" lane="E43_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_174" lane="E43_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_175" lane="E43_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_176" lane="E44_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_177" lane="E44_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_178" lane="E44_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_179" lane="E44_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_180" lane="E45_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_181" lane="E45_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_182" lane="E45_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_183" lane="E45_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_184" lane="E46_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_185" lane="E46_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_186" lane="E46_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_187" lane="E46_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_188" lane="E47_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_189" lane="E47_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_190" lane="E47_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_191" lane="E47_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_192" lane="E48_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_193" lane="E48_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_194" lane="E48_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_195" lane="E48_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_196" lane="E49_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_197" lane="E49_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_198" lane="E49_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_199" lane="E49_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_200" lane="E50_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_201" lane="E50_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_202" lane="E50_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_203" lane="E50_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_204" lane="E51_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_205" lane="E51_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_206" lane="E51_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_207" lane="E51_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_208" lane="E52_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_209" lane="E52_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_210" lane="E52_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_211" lane="E52_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_212" lane="E53_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_213" lane="E53_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_214" lane="E53_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_215" lane="E53_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_216" lane="E54_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_217" lane="E54_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_218" lane="E54_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_219" lane="E54_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_220" lane="E55_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_221" lane="E55_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_222" lane="E55_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_223" lane="E55_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_224" lane="E56_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_225" lane="E56_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_226" lane="E56_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_227" lane="E56_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_228" lane="E57_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_229" lane="E57_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_230" lane="E57_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_231" lane="E57_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_232" lane="E58_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_233" lane="E58_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_234" lane="E58_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_235" lane="E58_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_236" lane="E59_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_237" lane="E59_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_238" lane="E59_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_239" lane="E59_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_240" lane="E60_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_241" lane="E60_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_242" lane="E60_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_243" lane="E60_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_244" lane="E61_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_245" lane="E61_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_246" lane="E61_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_247" lane="E61_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_248" lane="E62_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_249" lane="E62_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_250" lane="E62_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_251" lane="E62_3" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_252" lane="E63_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_253" lane="E63_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_254" lane="E63_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_255" lane="E64_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_256" lane="E64_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_257" lane="E64_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_258" lane="E65_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_259" lane="E65_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_260" lane="E65_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_261" lane="E66_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_262" lane="E66_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_263" lane="E66_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_264" lane="E67_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_265" lane="E67_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_266" lane="E67_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_267" lane="E68_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_268" lane="E68_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_269" lane="E68_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_270" lane="E69_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_271" lane="E69_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_272" lane="E69_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_273" lane="E70_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_274" lane="E70_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_275" lane="E70_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_276" lane="E71_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_277" lane="E71_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_278" lane="E71_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_279" lane="E72_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_280" lane="E72_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_281" lane="E72_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_282" lane="E73_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_283" lane="E73_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_284" lane="E73_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_285" lane="E74_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_286" lane="E74_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_287" lane="E74_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_288" lane="E75_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_289" lane="E75_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_290" lane="E75_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_291" lane="E76_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_292" lane="E76_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_293" lane="E76_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_294" lane="E77_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_295" lane="E77_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_296" lane="E77_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_297" lane="E78_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_298" lane="E78_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_299" lane="E78_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_300" lane="E79_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_301" lane="E79_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_302" lane="E79_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_303" lane="E80_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_304" lane="E80_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_305" lane="E80_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_306" lane="E81_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_307" lane="E81_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_308" lane="E81_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_309" lane="E82_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_310" lane="E82_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_311" lane="E82_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_312" lane="E83_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_313" lane="E83_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_314" lane="E83_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_315" lane="E84_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_316" lane="E84_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_317" lane="E84_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_318" lane="E85_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_319" lane="E85_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_320" lane="E85_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_321" lane="E86_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_322" lane="E86_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_323" lane="E86_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_324" lane="E87_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_325" lane="E87_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_326" lane="E87_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_327" lane="E88_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_328" lane="E88_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_329" lane="E88_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_330" lane="E89_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_331" lane="E89_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_332" lane="E89_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_333" lane="E90_0" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_334" lane="E90_1" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+            <inductionLoop id="e1_335" lane="E90_2" pos="50.000000" period="30.000000" file="nontest_capacity_detector.xml"/>
+            
+
+</additional>
+        
