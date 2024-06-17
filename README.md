@@ -31,6 +31,23 @@ Step 3: If you’d like to obtain parameters for the scenario of HVs following H
 Step 4: After setting this parameter, click “Run” under kernel to run each block continuously or click “Restart & Run all” under kernel to run all the blocks all the time. 
 # License
 This project is licensed under the Apache 2.0 License.
+# Contributions
+
+Please read [CONTRIBUTING.md](https://github.com/usdot-jpo-codehub/codehub-readme-template/blob/master/Contributing.MD) for details on our Code of Conduct, the process for submitting pull requests to us, and how contributions will be released.
+
+# Contact Information
+
+Contact Name: Zhitong Huang
+Contact Information: Zhitong.Huang@leidos.com
 # Acknowledgements
-This research is supported by Federal Highway Administration (FHWA) Office of Operations Research and Development HRDO program under the project entitled Developing Improved Analysis, 
-Modeling, and Simulation Tools for Advanced Driver Assistance Systems and Automated Driving System Applications.
+This research is supported by Federal Highway Administration (FHWA) Office.
+## Citing this code
+To track how this government-funded code is used, we request that if you decide to build additional software using this code please acknowledge its Digital Object Identifier in your software's README/documentation.
+
+> Digital Object Identifier: https://doi.org/xxx.xxx/xxxx
+
+To cite this code in a publication or report, please cite our associated report/paper and/or our source code. Below is a sample citation for this code:
+
+> ITS CodeHub Team. (2021). _ITS CodeHub README Template_ (0.1) [Source code]. Provided by ITS CodeHub through GitHub.com. Accessed 2021-01-27 from https://doi.org/xxx.xxx/xxxx.
+
+When you copy or adapt from this code, please include the original URL you copied the source code from and the date of retrieval as a comment in your code. Additional information on how to cite can be found in the [ITS CodeHub FAQ](https://its.dot.gov/code/#/faqs).
