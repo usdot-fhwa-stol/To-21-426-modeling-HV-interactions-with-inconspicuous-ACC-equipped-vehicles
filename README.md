@@ -1,6 +1,6 @@
 # Summary
-This repository contains the source code of calibrating IDM model for human-driven vehicles (HVs) when they follow HVs and when they follow Advanced Driver Assistance System (ADAS) – equipped vehicles. 
-The source code was developed to obtain the IDM parameters of HVs under the two following scenarios. Based on the calibrated results, the relationships between IDM parameters when HVs follow HVs and ADAS-equipped 
+This repository contains the source code of calibrating IDM model for human-driven vehicles (HVs) when they follow HVs and when they follow Adaptive Cruise Control (ACC) – equipped vehicles. 
+The source code was developed to obtain the IDM parameters of HVs under the two following scenarios. Based on the calibrated results, the relationships between IDM parameters when HVs follow HVs and ACC-equipped 
 vehicles are determined. 
 # Outline
 * Project Description
@@ -27,7 +27,7 @@ that consists of only human-driven vehicles (HVs). This design focus on makes th
 ### Car-following model calibration
 Step 1: Open Jupyter notebook in Anoconda\
 Step 2: Upload the file “PSO algorithm for calibration” in the folder of "calibration code" onto your Jupyter notebook.\
-Step 3: If you’d like to obtain parameters for the scenario of HVs following HVs, you need to set “CAV_judge = False” in the code. If you’d like to obtain parameters for the scenario of HVs following ADAS-equipped vehicles, you need to set “CAV_judge= True” in the code.\
+Step 3: If you’d like to obtain parameters for the scenario of HVs following HVs, you need to set “CAV_judge = False” in the code. If you’d like to obtain parameters for the scenario of HVs following ACC-equipped vehicles, you need to set “CAV_judge= True” in the code.\
 Step 4: After setting this parameter, click “Run” under kernel to run each block continuously or click “Restart & Run all” under kernel to run all the blocks all the time. After running the code, the parameters of the car-following model for each vehicle will be saved in the folder of parameter.
 # License
 This project is licensed under the Apache 2.0 License.
